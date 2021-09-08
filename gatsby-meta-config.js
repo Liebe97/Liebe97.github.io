@@ -1,8 +1,8 @@
 module.exports = {
-  title: `blog.naver.com/dororong97`,
+  title: `Home`,
   description: `리베 개발노트`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://blog.naver.com/dororong97`,
+  siteUrl: `https://liebe97.github.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
